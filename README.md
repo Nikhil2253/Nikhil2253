@@ -32,7 +32,7 @@ Backend:          Node.js, Express.js, Passport.js, JWT, REST APIs
 Database:         MongoDB
 Tools:            Git, Postman, VS Code, Visual Studio
 CS Concepts:      DSA, DBMS, CN, OOPS
-
+``` 
 ---
 
 ### 🚀 Projects
