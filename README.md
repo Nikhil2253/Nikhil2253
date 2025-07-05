@@ -84,6 +84,8 @@ CS Concepts:      DSA, DBMS, CN, OOPS
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nikhil2253&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhil2253&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil2253&layout=compact&theme=radical" width="48%" />
+
 </p>
 
 ---
