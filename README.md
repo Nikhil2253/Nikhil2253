@@ -32,3 +32,62 @@ Backend:          Node.js, Express.js, Passport.js, JWT, REST APIs
 Database:         MongoDB
 Tools:            Git, Postman, VS Code, Visual Studio
 CS Concepts:      DSA, DBMS, CN, OOPS
+
+---
+
+### 🚀 Projects
+
+| Project | Tech Stack | Highlights |
+|--------|-------------|------------|
+| **[Hospital Management System](https://github.com/Nikhil2253/Hospital-Management-System---HMS)** | MERN, JWT, Bcrypt | Secure, role-based dashboards for hospitals with real-time features |
+| **[Campus Connect](https://github.com/Nitin10cd/hackthon-project-clg)** | MERN, Gemini API, Socket.IO | 🚀 3rd place in 2025 Group Hackathon – full-fledged college platform |
+| **[World Idle Game](https://github.com/Nikhil2253/WorldGame)** | MERN, Socket.IO | Simulates real-time world economy and country interactions |
+| **[Sorting Visualizer](https://github.com/Nikhil2253/Sorting_Algo_Visualisation-)** | React, Async JS | Animations for Bubble, Insertion, Selection sort |
+| **[Ludo Game](https://github.com/Nikhil2253/Ludo-Game)** | HTML, CSS, JavaScript | Classic multiplayer Ludo with game logic and UI |
+
+---
+
+### 🏆 Achievements
+
+- 🥉 **3rd Place – Group Hackathon 2025**  
+  Competed against 15+ teams in a tech-focused hackathon hosted by ACET.  
+  Our team built **Campus Connect** – a full-featured college platform integrating:
+  - 💬 Real-time chat using Socket.IO  
+  - 📚 Role-based dashboards for teachers and students  
+  - 🧠 AI-powered MCQ testing via Gemini API  
+  - 📣 Live announcements, placements module, classroom sharing  
+
+- 🏅 **Certificate of Excellence – AuraFlix Hackathon**  
+  Ranked in the **Top 4 out of 400+ teams**. Recognized for creativity and code quality.
+
+- 🧪 **Postman Student Expert** – Hands-on API testing and documentation
+
+- 💻 **GSSOC '24 Contributor** – Participated in open-source projects during GirlScript Summer of Code
+
+---
+
+### 🎓 Education
+
+**Bachelor of Technology - Computer Science & Engineering**  
+*Aligarh College Of Engineering And Technology*  
+📍 *Aligarh, UP (2022 – 2026)*  
+📌 **Current GPA: 8.66 / 10**
+
+**Intermediate + High School (PCM)**  
+*Maharishi Vidya Mandir, Aligarh*  
+📌 83% in both board examinations
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nikhil2253&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhil2253&theme=radical" width="48%" />
+</p>
+
+---
+
+### 📌 Let’s Connect
+
+> *“Passionate about building impactful systems with clean code and real-world logic.”*
