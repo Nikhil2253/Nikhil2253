@@ -42,7 +42,7 @@ CS Concepts:      DSA, DBMS, CN, OOPS
 | **[Hospital Management System](https://github.com/Nikhil2253/Hospital-Management-System---HMS)** | MERN, JWT, Bcrypt | Secure, role-based dashboards for hospitals with real-time features |
 | **[Campus Connect](https://github.com/Nitin10cd/hackthon-project-clg)** | MERN, Gemini API, Socket.IO | 🚀 3rd place in 2025 Group Hackathon – full-fledged college platform |
 | **[World Idle Game](https://github.com/Nikhil2253/WorldGame)** | MERN, Socket.IO | Simulates real-time world economy and country interactions |
-| **[Sorting Visualizer](https://github.com/Nikhil2253/Sorting_Algo_Visualisation-)** | React, Async JS | Animations for Bubble, Insertion, Selection sort |
+| **[Sorting Visualizer](https://github.com/Nikhil2253/Sorting_Algo_Visualisation-)** | React, Async JS | Animations for All sorting algorithms |
 | **[Ludo Game](https://github.com/Nikhil2253/Ludo-Game)** | HTML, CSS, JavaScript | Classic multiplayer Ludo with game logic and UI |
 
 ---
