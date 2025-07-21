@@ -91,7 +91,7 @@ CS Concepts:      DSA, DBMS, CN, OOPS
 ---
 ### Code Stats
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Nikhil_Saxena__?theme=dark&font=baloo&ext=activity" alt="LeetCode Stats" width="80%" />
+  <img src="https://leetcard.jacoblin.cool/Nikhil_Saxena__?theme=dark&font=baloo" alt="LeetCode Stats" width="80%" />
 </p>
 
 ---
