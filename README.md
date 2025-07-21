@@ -60,8 +60,6 @@ CS Concepts:      DSA, DBMS, CN, OOPS
 - 🏅 **Certificate of Excellence – AuraFlix Hackathon**  
   Ranked in the **Top 4 out of 400+ teams**. Recognized for creativity and code quality.
 
-- 🧪 **Postman Student Expert** – Hands-on API testing and documentation
-
 - 💻 **GSSOC '24 Contributor** – Participated in open-source projects during GirlScript Summer of Code
 
 ---
@@ -86,6 +84,15 @@ CS Concepts:      DSA, DBMS, CN, OOPS
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhil2253&theme=radical" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil2253&layout=compact&theme=radical" width="48%" />
 
+</p>
+
+---
+
+### 🎯 Hobbies
+
+<p align="center">
+  <img src="https://img.icons8.com/ios-filled/50/000000/chessboard.png" width="24" />
+  <span style="margin-left:8px;">Chess</span>
 </p>
 
 ---
