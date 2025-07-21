@@ -89,7 +89,12 @@ CS Concepts:      DSA, DBMS, CN, OOPS
 </p>
 
 ---
+### Code Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Nikhil_Saxena__?theme=dark&font=baloo&ext=activity" alt="LeetCode Stats" width="80%" />
+</p>
 
+---
 ### 📌 Let’s Connect
 
 > *“Passionate about building impactful systems with clean code and real-world logic.”*
