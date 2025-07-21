@@ -25,11 +25,11 @@
 
 ### 💻 Tech Stack
 
-```js
+```ts
 Languages:        JavaScript, TypeScript, Python, C++, HTML/CSS
 Frontend:         React.js, Next.js, Redux Toolkit, Tailwind CSS
 Backend:          Node.js, Express.js, Passport.js, JWT, REST APIs
-Database:         MongoDB
+Database:         MongoDB, PostgreSQL, SQL
 Tools:            Git, Postman, VS Code, Visual Studio
 CS Concepts:      DSA, DBMS, CN, OOPS
 ``` 
@@ -89,12 +89,7 @@ CS Concepts:      DSA, DBMS, CN, OOPS
 </p>
 
 ---
-### Code Stats
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Nikhil_Saxena__?theme=dark&font=baloo" alt="LeetCode Stats" width="80%" />
-</p>
 
----
 ### 📌 Let’s Connect
 
 > *“Passionate about building impactful systems with clean code and real-world logic.”*
