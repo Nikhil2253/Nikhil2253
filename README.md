@@ -76,6 +76,7 @@ CS Concepts:      DSA, DBMS, CN, OOPS
   <img src="https://img.shields.io/badge/DBMS-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Computer_Networks-teal?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OOPS-9b59b6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/System_Design-lime?style=for-the-badge" />
 
   <!-- 🧰 Tools -->
   <h3>🧰 Tools</h3>
