@@ -94,7 +94,7 @@ CS Concepts:      DSA, DBMS, CN, OOPS
 ### 🎯 Hobbies
 
 <p align="center">
-  <img src="https://img.icons8.com/ios-filled/100/FFFF00/chessboard.png" width="100" />
+  <img src="[https://img.icons8.com/ios-filled/1000/FFFF00/chessboard.png](https://img.icons8.com/?size=100&id=xEcZMJpsm8ue&format=png&color=fbf400)" width="100" />
   <span style="margin-left:8px;">Chess</span>
 </p>
 
