@@ -148,8 +148,8 @@ CS Concepts:      DSA, DBMS, CN, OOPS
 ### 🎯 Hobbies
 
 <p align="center">
-  <img src="https://img.icons8.com/?size=100&id=xEcZMJpsm8ue&format=png&color=fbf400" width="150" />
-  <span style="margin-left:8px;">Chess</span>
+  <img src="https://img.icons8.com/?size=100&id=xEcZMJpsm8ue&format=png&color=61DAFB" width="150" />
+  <span style="margin-left:8px;">Chess | шахматы | ajedrez | शतरंज</span>
 </p>
 
 ---
