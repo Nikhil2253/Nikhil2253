@@ -148,12 +148,12 @@ CS Concepts:      DSA, DBMS, CN, OOPS
 ### 🎯 Hobbies
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 12px;"> 
-<p align="center" style="background:white; display:inline-block; padding:10px; border-radius:10px;">
+<p align="left" style="background-color:'white'; display:inline-block; padding:10px; border-radius:10px;">
   <img src="https://img.icons8.com/?size=100&id=xEcZMJpsm8ue&format=png&color=61DAFB" width="100" />
 </p>
 
 
-  <div style="font-size: 28px; font-weight: bold;">
+  <div style="color:'red'; font-size: 28px; font-weight: bold;">
     Chess | ajedrez | शतरंज
   </div>
 </div>
