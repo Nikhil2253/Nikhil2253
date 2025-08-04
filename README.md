@@ -149,7 +149,9 @@ CS Concepts:      DSA, DBMS, CN, OOPS
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 12px;"> 
   <img src="https://img.icons8.com/?size=100&id=xEcZMJpsm8ue&format=png&color=61DAFB" width="100" />
- ![Chess](https://img.shields.io/badge/Chess-ajedrez|शतरंज-red?style=for-the-badge)
+<div style="color:red; font-size: 28px; font-weight: bold;">
+  Chess | ajedrez | शतरंज
+</div>
 
 </div>
 
