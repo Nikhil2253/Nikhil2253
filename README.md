@@ -147,8 +147,7 @@ CS Concepts:      DSA, DBMS, CN, OOPS
 
 ### 🎯 Hobbies
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 12px;">
-  <img src="https://img.icons8.com/?size=100&id=xEcZMJpsm8ue&format=png&color=61DAFB" width="100" />
+<div style="display: flex; justify-content: center; align-items: center; gap: 12px;"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/ChessBoard.svg/512px-ChessBoard.svg.png" width="300" />
   <div style="font-size: 28px; font-weight: bold;">
     Chess | ajedrez | शतरंज
   </div>
