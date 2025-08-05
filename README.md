@@ -137,9 +137,13 @@ CS Concepts:      DSA, DBMS, CN, OOPS
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nikhil2253&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhil2253&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil2253&layout=compact&theme=radical" width="48%" />
+## ❄️ GitHub Summary – Nord Dark
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikhil2253&theme=nord_dark)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nikhil2253&theme=nord_dark)
+![Most Used Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nikhil2253&theme=nord_dark)
+![General Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nikhil2253&theme=nord_dark)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nikhil2253&theme=nord_dark)
 
 </p>
 
