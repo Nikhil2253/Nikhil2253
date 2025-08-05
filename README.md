@@ -134,10 +134,10 @@ CS Concepts:      DSA, DBMS, CN, OOPS
 
 ---
 
-### 📈 GitHub Stats
+
+## ❄️ GitHub Stats – Nord Dark
 
 <p align="center">
-## ❄️ GitHub Summary – Nord Dark
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikhil2253&theme=nord_dark)
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nikhil2253&theme=nord_dark)
@@ -146,6 +146,16 @@ CS Concepts:      DSA, DBMS, CN, OOPS
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nikhil2253&theme=nord_dark)
 
 </p>
+
+
+## 💚 GitHub Summary – Chartreuse Dark
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikhil2253&theme=chartreuse_dark)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nikhil2253&theme=chartreuse_dark)
+![Most Used Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nikhil2253&theme=chartreuse_dark)
+![General Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nikhil2253&theme=chartreuse_dark)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nikhil2253&theme=chartreuse_dark)
+
 
 ---
 
