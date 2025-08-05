@@ -135,22 +135,15 @@ CS Concepts:      DSA, DBMS, CN, OOPS
 ---
 
 
-## ❄️ GitHub Stats – Nord Dark
+## GitHub Stats
 
 <p align="center">
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikhil2253&theme=nord_dark)
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nikhil2253&theme=nord_dark)
-![Most Used Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nikhil2253&theme=nord_dark)
-![General Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nikhil2253&theme=nord_dark)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nikhil2253&theme=nord_dark)
 
 </p>
 
 
-## 💚 GitHub Summary – Chartreuse Dark
-
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikhil2253&theme=chartreuse_dark)
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nikhil2253&theme=chartreuse_dark)
 ![Most Used Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nikhil2253&theme=chartreuse_dark)
 ![General Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nikhil2253&theme=chartreuse_dark)
@@ -159,44 +152,32 @@ CS Concepts:      DSA, DBMS, CN, OOPS
 
 ---
 
-## 🔴 GitHub Summary – Radical Theme
-
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikhil2253&theme=radical)
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nikhil2253&theme=radical)
 ![Most Used Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nikhil2253&theme=radical)
 ![General Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nikhil2253&theme=radical)
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nikhil2253&theme=radical)
 
 
-## 🧠 GitHub Stats – Vision Friendly Dark
-
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikhil2253&theme=vision_friendly_dark)
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nikhil2253&theme=vision_friendly_dark)
 ![Most Used Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nikhil2253&theme=vision_friendly_dark)
 ![General Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nikhil2253&theme=vision_friendly_dark)
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nikhil2253&theme=vision_friendly_dark)
 
 
-## 💫 GitHub Stats – 2077 Theme
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikhil2253&theme=2077)
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nikhil2253&theme=2077)
 ![Most Used Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nikhil2253&theme=2077)
 ![General Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nikhil2253&theme=2077)
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nikhil2253&theme=2077)
 
-## 🧛 GitHub Stats – Dracula Theme
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikhil2253&theme=dracula)
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nikhil2253&theme=dracula)
 ![Most Used Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nikhil2253&theme=dracula)
 ![General Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nikhil2253&theme=dracula)
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nikhil2253&theme=dracula)
 
 
-## 🔶 GitHub Stats – Cobalt2 Theme
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikhil2253&theme=cobalt2)
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nikhil2253&theme=cobalt2)
 ![Most Used Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nikhil2253&theme=cobalt2)
 ![General Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nikhil2253&theme=cobalt2)
