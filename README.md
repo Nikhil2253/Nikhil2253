@@ -139,42 +139,39 @@ CS Concepts:      DSA, DBMS, CN, OOPS
 
 <p align="center">
 
+
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikhil2253&theme=nord_dark)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nikhil2253&theme=nord_dark)
+![Most Used Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nikhil2253&theme=nord_dark)
+![General Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nikhil2253&theme=nord_dark)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nikhil2253&theme=nord_dark)
 
 </p>
 
+## 🌌 GitHub Summary – Tokyo Night
 
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikhil2253&theme=tokyonight)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nikhil2253&theme=tokyonight)
+![Most Used Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nikhil2253&theme=tokyonight)
+![General Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nikhil2253&theme=tokyonight)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nikhil2253&theme=tokyonight)
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nikhil2253&theme=radical)
-![Most Used Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nikhil2253&theme=radical)
-![General Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nikhil2253&theme=radical)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nikhil2253&theme=radical)
+## 🌃 GitHub Summary – Tokyo Night Dark
 
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikhil2253&theme=tokyonight_dark)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nikhil2253&theme=tokyonight_dark)
+![Most Used Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nikhil2253&theme=tokyonight_dark)
+![General Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nikhil2253&theme=tokyonight_dark)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nikhil2253&theme=tokyonight_dark)
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nikhil2253&theme=vision_friendly_dark)
-![Most Used Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nikhil2253&theme=vision_friendly_dark)
-![General Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nikhil2253&theme=vision_friendly_dark)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nikhil2253&theme=vision_friendly_dark)
+## 🧬 GitHub Summary – Vue Dark
 
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikhil2253&theme=vue_dark)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nikhil2253&theme=vue_dark)
+![Most Used Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nikhil2253&theme=vue_dark)
+![General Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nikhil2253&theme=vue_dark)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nikhil2253&theme=vue_dark)
 
-
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nikhil2253&theme=2077)
-![Most Used Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nikhil2253&theme=2077)
-![General Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nikhil2253&theme=2077)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nikhil2253&theme=2077)
-
-
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nikhil2253&theme=dracula)
-![Most Used Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nikhil2253&theme=dracula)
-![General Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nikhil2253&theme=dracula)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nikhil2253&theme=dracula)
-
-
-
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nikhil2253&theme=cobalt2)
-![Most Used Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nikhil2253&theme=cobalt2)
-![General Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nikhil2253&theme=cobalt2)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nikhil2253&theme=cobalt2)
 
 
 ### 🎯 Hobbies
