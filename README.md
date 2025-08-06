@@ -17,10 +17,10 @@
 
 ### 🧠 About Me
 
-- 🔭 I’m currently building scalable web apps and real-time systems with **MERN Stack + Socket.IO**
-- 🌱 I’m exploring **AI-integrated platforms**, **game logic**, and **authentication systems**
-- 🏆 2nd Runner up of 2025 Development hackathon,  a **Top 3 placement in a 2025 Group Hackathon**
-- 💬 Ask me about React, Node.js, JWT, MongoDB, or clean architecture in full-stack apps
+- 🔭 I’m currently building scalable web apps and real-time systems with **Full Stack + MERN Stack + Problem Solving**
+- 🌱 I’m exploring **AI-integrated platforms**, **game logic**, **programming logic** and **authentication systems**
+- 🏆 2nd Runner up of 2025 Development hackathon,  a **Bronze in a 2025 Group Hackathon**
+- 💬 Ask me about FullStack, React, Node.js, JWT, MongoDB, or clean architecture in full-stack apps
 - 📫 Reach me at: **nikhilsaxenacse@gmail.com**
 
 ---
