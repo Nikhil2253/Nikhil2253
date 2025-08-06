@@ -137,7 +137,7 @@ CS Concepts:      DSA, DBMS, CN, OOPS
 
 ## GitHub Stats
 
-<p align="center">
+<p align="center" width:"100vw">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikhil2253&theme=tokyonight" alt="Profile Details" />
 </p>
 
