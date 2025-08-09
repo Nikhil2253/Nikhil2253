@@ -131,11 +131,11 @@ CS Concepts:      DSA, DBMS, CN, OOPS
 📌 **Current GPA:** 8.66 / 10  
 
 **Intermediate (PCM)**  
-*Maharishi Vidya Mandir, Aligarh*  
+*Maharishi Vidya Mandir, Aligarh* (2022)  
 📌 **Score:** 83.4%  
 
 **High School**  
-*Maharishi Vidya Mandir, Aligarh*  
+*Maharishi Vidya Mandir, Aligarh* (2020)  
 📌 **Score:** 82.6%  
 
 ---
