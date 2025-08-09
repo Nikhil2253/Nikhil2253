@@ -123,16 +123,20 @@ CS Concepts:      DSA, DBMS, CN, OOPS
 
 ---
 
-### 🎓 Education
+## 🎓 Education
 
-**Bachelor of Technology - Computer Science & Engineering**  
-*Aligarh College Of Engineering And Technology*  
-📍 *Aligarh, UP (2022 – 2026)*  
-📌 **Current GPA: 8.66 / 10**
+**Bachelor of Technology – Computer Science & Engineering**  
+*Aligarh College of Engineering and Technology*  
+📍 *Aligarh, UP* (2022 – 2026)  
+📌 **Current GPA:** 8.66 / 10  
 
-**Intermediate + High School (PCM)**  
+**Intermediate (PCM)**  
 *Maharishi Vidya Mandir, Aligarh*  
-📌 83% in both board examinations
+📌 **Score:** 83.4%  
+
+**High School**  
+*Maharishi Vidya Mandir, Aligarh*  
+📌 **Score:** 82.6%  
 
 ---
 
