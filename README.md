@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently building scalable web apps and real-time systems with **Full Stack + MERN Stack + Problem Solving**
 - 🌱 I’m exploring **AI-integrated platforms**, **game logic**, **programming logic** and **authentication systems**
-- 🏆 2nd Runner up of 2025 Development hackathon,  a **Bronze in a 2025 Group Hackathon**
+- 🥉 2nd Runner up of 2025 Development hackathon,  a **Bronze in a 2025 Group Hackathon**
 - 💬 Ask me about FullStack, React, Node.js, JWT, MongoDB, or clean architecture in full-stack apps
 - 📫 Reach me at: **nikhilsaxenacse@gmail.com**
 
