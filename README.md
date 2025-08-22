@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Nikhil Saxena</h1>
 
 <p align="center">
-  <b>Full-Stack Web Developer | MERN Stack Specialist | INTP-A "THE LOGICIAN" | DSA Enthusiast | Aspiring Polymath | Wanna be Genius</b>
+  <b>Full-Stack Web Developer | MERN Stack Specialist | INTP-A "THE LOGICIAN" | DSA Enthusiast</b>
 </p>
 
 <p align="center">
