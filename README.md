@@ -14,12 +14,13 @@
 
 
 ---
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=32CD32&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;Full-Stack+Web+Developer;MERN+Stack+Specialist;INTP+%22THE+LOGICIAN%22;DSA+Enthusiast" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;Full-Stack+Web+Developer;MERN+Stack+Specialist;INTP+%22THE+LOGICIAN%22;DSA+Enthusiast" 
+    alt="Typing SVG"
+    style="filter: drop-shadow(0 0 6px #39FF14) drop-shadow(0 0 12px #39FF14);" 
+  />
 </p>
-
-
 ---
 
 ### 🧠 About Me
