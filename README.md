@@ -15,6 +15,13 @@
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=32CD32&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;Full-Stack+Web+Developer;MERN+Stack+Specialist;INTP+%22THE+LOGICIAN%22;DSA+Enthusiast" alt="Typing SVG" />
+</p>
+
+
+---
+
 ### 🧠 About Me
 
 - 🔭 I’m currently building scalable web apps and real-time systems with **Full Stack + MERN Stack + Problem Solving**
