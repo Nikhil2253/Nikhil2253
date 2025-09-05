@@ -38,7 +38,7 @@ Frontend:         React.js, Next.js, Redux Toolkit, Tailwind CSS, HTML/CSS
 Backend:          Node.js, Express.js, Passport.js, JWT, Fastify, REST APIs
 Database:         MongoDB, PostgreSQL, SQL
 Tools:            Git, Postman, VS Code, Visual Studio
-CS Concepts:      DSA, DBMS, CN, OOPS
+CS Concepts:      DSA, DBMS, System Design, OOPS
 ```
 <div align="center">
 
