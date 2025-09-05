@@ -14,7 +14,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1000&color=00F700&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Full+Stack+Web+Developer;MERN+Stack+Specialist;INTP;Game+Dev+Enthusiast;DSA+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1000&color=00FA00&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Full+Stack+Web+Developer;MERN+Stack+Specialist;INTP;Game+Dev+Enthusiast;DSA+Enthusiast" alt="Typing SVG" />
 </p>
 
 
