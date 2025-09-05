@@ -14,7 +14,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=1AF333&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;Full-Stack+Web+Developer;MERN+Stack+Specialist;INTP+%22THE+LOGICIAN%22;DSA+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1000&color=00F700&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Full+Stack+Web+Developer;MERN+Stack+Specialist;INTP+Logic+Thinker;DSA+Enthusiast" alt="Typing SVG" />
 </p>
 
 
@@ -27,6 +27,12 @@
 - 🥉 2nd Runner up of 2025 Development hackathon,  a **Bronze in a 2025 Group Hackathon**
 - 💬 Ask me about FullStack, React, Node.js, JWT, MongoDB, or clean architecture in full-stack apps
 - 📫 Reach me at: **nikhilsaxenacse@gmail.com**
+- <p align="center">
+  <img src="https://i.ibb.co/Z6b6y0R/pixel-computer.gif" width="80"/>
+  <img src="https://i.ibb.co/0nL6XDr/pixel-coffee.gif" width="80"/>
+  <img src="https://i.ibb.co/pPM0Q9M/pixel-books.gif" width="80"/>
+</p>
+
 
 ---
 
@@ -158,10 +164,6 @@ CS Concepts:      DSA, DBMS, CN, OOPS
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nikhil2253&theme=tokyonight" alt="Top Languages" /></td>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nikhil2253&theme=tokyonight" alt="Most Used Language" /></td>
   </tr>
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nikhil2253&theme=tokyonight" alt="General Stats" /></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nikhil2253&theme=tokyonight" alt="Productive Time" /></td>
-  </tr>
 </table>
 
 
@@ -171,13 +173,15 @@ CS Concepts:      DSA, DBMS, CN, OOPS
 
 ### 🎯 Hobbies
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 12px;"> 
-  <img src="https://img.icons8.com/?size=100&id=xEcZMJpsm8ue&format=png&color=61DAFB" width="100" />
-<div style="color:red; font-size: 28px; font-weight: bold;">
-  Chess | ajedrez | शतरंज
-</div>
+<p align="center">
+  <img src="https://i.ibb.co/52DFqJ7/pixel-chess.gif" width="100"/>
+  <img src="https://i.ibb.co/19CQc8F/pixel-game.gif" width="100"/>
+  <img src="https://i.ibb.co/vYs1b0k/pixel-music.gif" width="100"/>
+</p>
 
-</div>
+<p align="center">
+  <b>♟️ Chess | 🎮 Gaming | 🎵 Music</b>
+</p>
 
 
 ---
