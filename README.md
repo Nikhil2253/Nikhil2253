@@ -27,12 +27,6 @@
 - 🥉 2nd Runner up of 2025 Development hackathon,  a **Bronze in a 2025 Group Hackathon**
 - 💬 Ask me about FullStack, React, Node.js, JWT, MongoDB, or clean architecture in full-stack apps
 - 📫 Reach me at: **nikhilsaxenacse@gmail.com**
-- <p align="center">
-  <img src="https://i.ibb.co/Z6b6y0R/pixel-computer.gif" width="80"/>
-  <img src="https://i.ibb.co/0nL6XDr/pixel-coffee.gif" width="80"/>
-  <img src="https://i.ibb.co/pPM0Q9M/pixel-books.gif" width="80"/>
-</p>
-
 
 ---
 
@@ -174,15 +168,8 @@ CS Concepts:      DSA, DBMS, CN, OOPS
 ### 🎯 Hobbies
 
 <p align="center">
-  <img src="https://i.ibb.co/52DFqJ7/pixel-chess.gif" width="100"/>
-  <img src="https://i.ibb.co/19CQc8F/pixel-game.gif" width="100"/>
-  <img src="https://i.ibb.co/vYs1b0k/pixel-music.gif" width="100"/>
+  <b>♟️ Chess | 🎮 Gaming(Minecraft) | 🎵 Music</b>
 </p>
-
-<p align="center">
-  <b>♟️ Chess | 🎮 Gaming | 🎵 Music</b>
-</p>
-
 
 ---
 
