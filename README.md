@@ -168,7 +168,7 @@ CS Concepts:      DSA, DBMS, System Design, OOPS
 ### 🎯 Hobbies
 
 <p align="center">
-  <b>♟️ Chess | 🎮 Gaming(Minecraft) | 🎵 Music</b>
+  <b>♟️ Chess | 🎮 Gaming(Minecraft) | 🎵 Music | Anime</b>
 </p>
 
 ---
