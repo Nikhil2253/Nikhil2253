@@ -85,7 +85,7 @@ CS Concepts:      DSA, DBMS, System Design, OOPS
   <h3>📘 CS Concepts</h3>
   <img src="https://img.shields.io/badge/DSA-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/DBMS-orange?style=for-the-badge" />
- 
+  <img src="https://img.shields.io/badge/Computer_Networks-lavendar?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OOPS-9b59b6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/System_Design-lime?style=for-the-badge&logoColor=black" />
 
