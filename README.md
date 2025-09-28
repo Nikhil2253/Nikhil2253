@@ -39,7 +39,7 @@
 Languages:        JavaScript, TypeScript, C++, Python
 Frontend:         React.js, Next.js, Redux Toolkit, Tailwind CSS, HTML/CSS
 Backend:          Node.js, Express.js, Passport.js, JWT, Fastify, REST APIs
-Database:         MongoDB, PostgreSQL, SQL
+Database:         MongoDB, PostgreSQL, SQL, PrismaORM
 Tools:            Git, Postman, VS Code, Visual Studio
 CS Concepts:      DSA, DBMS, System Design, OOPS
 ```
@@ -137,7 +137,7 @@ CS Concepts:      DSA, DBMS, System Design, OOPS
 **Bachelor of Technology – Computer Science & Engineering**  
 *Aligarh College of Engineering and Technology*  
 📍 *Aligarh, UP* (2022 – 2026)  
-📌 **Current GPA:** 8.66 / 10  
+📌 **Current GPA:** 8.49 / 10  (Top 2 in Externals | Internals Rigged)
 
 **Intermediate (PCM)**  
 *Maharishi Vidya Mandir, Aligarh* (2022)  
