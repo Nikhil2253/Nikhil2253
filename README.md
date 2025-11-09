@@ -164,11 +164,14 @@ CS Concepts:      DSA, DBMS, System Design, OOPS
   </tr>
 </table>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Nikhil2253&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://ghchart.rshah.org/00FFFF/Nikhil2253" alt="Nikhil2253's GitHub Contribution Heatmap" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikhil2253&theme=tokyo-night" alt="activity graph"/>
+  <img src="https://raw.githubusercontent.com/Nikhil2253/Nikhil2253/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
 </p>
+
 
 
 
