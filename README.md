@@ -166,6 +166,10 @@ CS Concepts:      DSA, DBMS, System Design, OOPS
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Nikhil2253&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikhil2253&theme=tokyo-night" alt="activity graph"/>
+</p>
+
 
 
 
