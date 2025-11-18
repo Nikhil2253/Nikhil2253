@@ -5,18 +5,17 @@
 </p>
 
 <p align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikhil_Saxena-blue?style=flat-square)](https://www.linkedin.com/in/nikhil-saxena-76901a2a5/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikhil_Saxena-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-saxena-76901a2a5/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Nikhil__Saxena-orange?style=flat-square)](https://leetcode.com/u/Nikhil_Saxena__/)
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Nikhil__Saxena-orange?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Nikhil_Saxena__/)
+[![GitHub](https://img.shields.io/badge/GitHub-Nikhil2253-black?style=flat-square)](https://github.com/Nikhil2253)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Nikhil2253-black?style=flat-square&logo=github&logoColor=white)](https://github.com/Nikhil2253)
+[![X](https://img.shields.io/badge/X-Nikhil_Saxena-black?style=flat-square)](https://x.com/niksharingan)
 
-[![X](https://img.shields.io/badge/X-Nikhil_Saxena-black?style=flat-square&logo=x&logoColor=white)](https://x.com/niksharingan)
+[![Email](https://img.shields.io/badge/Email-nikhilsaxenacse%40gmail.com-red?style=flat-square)](mailto:nikhilsaxenacse@gmail.com)
 
-[![Email](https://img.shields.io/badge/Email-nikhilsaxenacse%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:nikhilsaxenacse@gmail.com)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Nikhil_Saxena-E85880?style=flat-square&logo=vercel&logoColor=white)](https://nikhil-pi.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Nikhil_Saxena-E85880?style=flat-square)](https://nikhil-pi.vercel.app)
 
 </p>
 
