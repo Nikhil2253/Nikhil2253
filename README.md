@@ -5,7 +5,14 @@
 </p>
 
 <p align="center">
-
+  <a href="mailto:nikhilsaxenacse@gmail.com"><img src="https://img.shields.io/badge/email-nikhilsaxenacse@gmail.com-blue?style=flat-square&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/nikhil-saxena-76901a2a5/"><img src="https://img.shields.io/badge/LinkedIn-Nikhil_Saxena-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://github.com/Nikhil2253"><img src="https://img.shields.io/badge/GitHub-Nikhil2253-black?style=flat-square&logo=github"></a>
+  <a href="https://leetcode.com/u/Nikhil_Saxena__/"><img src="https://img.shields.io/badge/LeetCode-Nikhil__Saxena-orange?style=flat-square&logo=leetcode"></a>
+  <a href="https://x.com/niksharingan"><img src="https://img.shields.io/badge/X-Nikhil_Saxena-black?style=flat-square&logo=twitter"></a>
+  <a href="https://nikhil-pi.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Nikhil_Saxena-E85880?style=flat-square&logo=googlesites&logoColor=yellow">
+  </a>
 </p>
 
 
