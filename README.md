@@ -5,29 +5,18 @@
 </p>
 
 <p align="center">
-<a href="mailto:nikhilsaxenacse@gmail.com">
-  <img src="https://img.shields.io/badge/email-nikhilsaxenacse%40gmail.com-blue?style=flat-square&logo=gmail">
-</a>
 
-<a href="https://www.linkedin.com/in/nikhil-saxena-76901a2a5/">
-  <img src="https://img.shields.io/badge/LinkedIn-Nikhil_Saxena-blue?style=flat-square&logo=linkedin">
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikhil_Saxena-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-saxena-76901a2a5/)
 
-<a href="https://github.com/Nikhil2253">
-  <img src="https://img.shields.io/badge/GitHub-Nikhil2253-black?style=flat-square&logo=github">
-</a>
+[![LeetCode](https://img.shields.io/badge/LeetCode-Nikhil__Saxena-orange?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Nikhil_Saxena__/)
 
-<a href="https://leetcode.com/u/Nikhil_Saxena__/">
-  <img src="https://img.shields.io/badge/LeetCode-Nikhil__Saxena-orange?style=flat-square&logo=leetcode">
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-Nikhil2253-black?style=flat-square&logo=github&logoColor=white)](https://github.com/Nikhil2253)
 
-<a href="https://x.com/niksharingan">
-  <img src="https://img.shields.io/badge/X-Nikhil_Saxena-black?style=flat-square&logo=twitter">
-</a>
+[![X](https://img.shields.io/badge/X-Nikhil_Saxena-black?style=flat-square&logo=x&logoColor=white)](https://x.com/niksharingan)
 
-<a href="https://nikhil-pi.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-Nikhil_Saxena-E85880?style=flat-square&logo=googlesites&logoColor=yellow">
-</a>
+[![Email](https://img.shields.io/badge/Email-nikhilsaxenacse%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:nikhilsaxenacse@gmail.com)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Nikhil_Saxena-E85880?style=flat-square&logo=vercel&logoColor=white)](https://nikhil-pi.vercel.app)
 
 </p>
 
