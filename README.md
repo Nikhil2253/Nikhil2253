@@ -155,20 +155,44 @@ CS Concepts:      DSA, DBMS, System Design, OOPS, CN, Algorithms
 
 ## GitHub Stats
 
-<p align="center" width:"100vw">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikhil2253&theme=tokyonight" alt="Profile Details" />
-</p>
+<div align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikhil2253&theme=darcula" 
+    alt="Profile Details"
+    style="width: 100%; max-width: 900px;"
+  />
+</div>
 
-<table align="center">
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nikhil2253&theme=tokyonight" alt="Top Languages" /></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nikhil2253&theme=tokyonight" alt="Most Used Language" /></td>
-  </tr>
+<br/>
 
-  <tr>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil2253&layout=compact&theme=tokyonight" alt="Top Languages Compact" />
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img 
+          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nikhil2253&theme=darcula" 
+          alt="Top Languages"
+        />
+      </td>
+      <td align="center">
+        <img 
+          src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nikhil2253&theme=darcula" 
+          alt="Most Used Language"
+        />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil2253&layout=compact&theme=darcula" 
+    alt="Top Languages Compact"
+  />
+</div>
+
 
 ### 🎯 Hobbies
 
