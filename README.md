@@ -164,6 +164,20 @@ CS Concepts:      DSA, DBMS, System Design, OOPS, CN, Algorithms
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nikhil2253&theme=tokyonight" alt="Top Languages" /></td>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nikhil2253&theme=tokyonight" alt="Most Used Language" /></td>
   </tr>
+  
+  <tr>
+    <!-- GitHub Stats -->
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Nikhil2253&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+    </td>
+  </tr>
+
+  <tr>
+    <!-- Top Languages Compact -->
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil2253&layout=compact&theme=tokyonight" alt="Top Languages Compact" />
+    </td>
+  </tr>
 </table>
 
 ### 🎯 Hobbies
