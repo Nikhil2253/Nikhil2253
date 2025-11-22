@@ -156,11 +156,13 @@ CS Concepts:      DSA, DBMS, System Design, OOPS, CN, Algorithms
 ## GitHub Stats
 
 <div align="center">
+
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikhil2253&theme=darcula" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikhil2253&theme=calm" 
     alt="Profile Details"
-    style="width: 100%; max-width: 900px;"
+    style="width: 100%; max-width: 900px; border: 2px solid #ff2e2e; border-radius: 14px;"
   />
+
 </div>
 
 <br/>
@@ -170,14 +172,16 @@ CS Concepts:      DSA, DBMS, System Design, OOPS, CN, Algorithms
     <tr>
       <td align="center">
         <img 
-          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nikhil2253&theme=darcula" 
+          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nikhil2253&theme=radical" 
           alt="Top Languages"
+          style="border-radius: 12px;"
         />
       </td>
       <td align="center">
         <img 
-          src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nikhil2253&theme=darcula" 
+          src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nikhil2253&theme=calm" 
           alt="Most Used Language"
+          style="border-radius: 12px;"
         />
       </td>
     </tr>
@@ -188,10 +192,13 @@ CS Concepts:      DSA, DBMS, System Design, OOPS, CN, Algorithms
 
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil2253&layout=compact&theme=darcula" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil2253&layout=compact&theme=radical"
     alt="Top Languages Compact"
+    style="border: 2px solid #ff1a2a; border-radius: 12px;"
   />
+
 </div>
+
 
 
 ### 🎯 Hobbies
