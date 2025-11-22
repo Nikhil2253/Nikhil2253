@@ -38,10 +38,10 @@
 ```ts
 Languages:        JavaScript, TypeScript, C++, Python
 Frontend:         React.js, Next.js, Redux Toolkit, Tailwind CSS, HTML/CSS
-Backend:          Node.js, Express.js, Passport.js, JWT, Fastify, REST APIs
+Backend:          Node.js, Express.js, Passport.js, JWT, Django, Fastify, REST APIs
 Database:         MongoDB, PostgreSQL, SQL, PrismaORM
 Tools:            Git, Postman, VS Code, Visual Studio
-CS Concepts:      DSA, DBMS, System Design, OOPS
+CS Concepts:      DSA, DBMS, System Design, OOPS, CN, Algorithms
 ```
 <div align="center">
 
@@ -73,18 +73,20 @@ CS Concepts:      DSA, DBMS, System Design, OOPS
   <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_API-FF6F61?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 
   <!-- 🗄 Database -->
   <h3>🗄 Database</h3>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
 
   <!-- 📘 CS Concepts -->
   <h3>📘 CS Concepts</h3>
   <img src="https://img.shields.io/badge/DSA-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/DBMS-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Algorithms-DC143C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Computer_Networks-ff5d8f?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OOPS-9b59b6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/System_Design-lime?style=for-the-badge&logoColor=black" />
