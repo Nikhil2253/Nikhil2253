@@ -153,14 +153,13 @@ CS Concepts:      DSA, DBMS, System Design, OOPS, CN, Algorithms
 ---
 
 
-## GitHub Stats
+##  GitHub Stats 
 
 <div align="center">
-
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikhil2253&theme=calm" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikhil2253&theme=github_dark" 
     alt="Profile Details"
-    style="width: 100%; max-width: 900px; border: 2px solid #ff2e2e; border-radius: 14px;"
+    style="width: 100%; max-width: 900px; border: 2px solid #00bfff; border-radius: 14px;"
   />
 
 </div>
@@ -172,16 +171,16 @@ CS Concepts:      DSA, DBMS, System Design, OOPS, CN, Algorithms
     <tr>
       <td align="center">
         <img 
-          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nikhil2253&theme=radical" 
+          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nikhil2253&theme=github_dark" 
           alt="Top Languages"
-          style="border-radius: 12px;"
+          style="border: 2px solid #ff1744; border-radius: 14px;"
         />
       </td>
       <td align="center">
         <img 
-          src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nikhil2253&theme=calm" 
+          src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nikhil2253&theme=github_dark" 
           alt="Most Used Language"
-          style="border-radius: 12px;"
+          style="border: 2px solid #00bfff; border-radius: 14px;"
         />
       </td>
     </tr>
@@ -191,10 +190,11 @@ CS Concepts:      DSA, DBMS, System Design, OOPS, CN, Algorithms
 <br/>
 
 <div align="center">
+
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil2253&layout=compact&theme=radical"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil2253&layout=compact&theme=github_dark" 
     alt="Top Languages Compact"
-    style="border: 2px solid #ff1a2a; border-radius: 12px;"
+    style="border: 2px solid #00bfff; border-radius: 14px;"
   />
 
 </div>
