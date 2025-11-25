@@ -141,7 +141,7 @@ CS Concepts:      DSA, DBMS, System Design, OOPS, CN, Algorithms
 **Bachelor of Technology – Computer Science & Engineering**  
 *Aligarh College of Engineering and Technology*  
 📍 *Aligarh, UP* (2022 – 2026)  
-📌 **Current GPA:** 8.49 / 10  (Top 2 in Externals | Internals Rigged)
+📌 **Current GPA:** 8.49 / 10  (Top 2 in Externals)
 
 **Intermediate (PCM)**  
 *Maharishi Vidya Mandir, Aligarh* (2022)  
