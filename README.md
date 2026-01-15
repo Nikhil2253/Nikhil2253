@@ -1,7 +1,7 @@
 <h1 align="center">I'm Nikhil Saxena</h1>
 
 <p align="center">
-  <b>Aspiring Software Engineer | Full-Stack Web Developer | MERN Stack Developer | INTP "THE LOGICIAN" | DSA Learner | Game Development Enthusiast | ML Enthusiast</b>
+  <b>Software Engineer | Full-Stack Web Developer | MERN Stack Developer | INTP "THE LOGICIAN" | DSA Learner | Game Development Enthusiast | Aspiring ML Engineer</b>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1000&color=EAEA00&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Full+Stack+Web+Developer;MERN+Stack+Dev;INTP;Game+Dev+Enthusiast;DSA+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1000&color=EAEA00&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Web+Developer;MERN+Stack+Dev;INTP;Game+Dev+Enthusiast;DSA+Learner;Aspiring+ML+Engineer" alt="Typing SVG" />
 </p>
 
 
