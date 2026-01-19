@@ -173,14 +173,12 @@ CS Concepts:      DSA, DBMS, System Design, OOPS, CN, Algorithms
         <img 
           src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nikhil2253&theme=vue" 
           alt="Top Languages"
-          style="border: 2px solid #ff1744; border-radius: 14px;"
         />
       </td>
       <td align="center">
         <img 
           src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nikhil2253&theme=vue" 
           alt="Most Used Language"
-          style="border: 2px solid #00bfff; border-radius: 14px;"
         />
       </td>
     </tr>
