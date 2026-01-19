@@ -159,7 +159,7 @@ CS Concepts:      DSA, DBMS, System Design, OOPS, CN, Algorithms
 
 <div align="center">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikhil2253&theme=github_dark" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikhil2253&theme=github_yellow" 
     alt="Profile Details"
     style="width: 100%; max-width: 900px; border: 2px solid #00bfff; border-radius: 14px;"
   />
