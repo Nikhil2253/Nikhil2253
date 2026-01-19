@@ -158,39 +158,11 @@ CS Concepts:      DSA, DBMS, System Design, OOPS, CN, Algorithms
 ##  GitHub Stats 
 
 <div align="center">
-
-  <!-- Profile Details -->
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikhil2253&theme=github_yellow"
-    style="width: 100%; max-width: 900px; border-radius: 14px;"
-  />
-
-  <br/><br/>
-
-  <!-- Stats Row -->
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nikhil2253&theme=github_yellow"
-    width="45%"
-  />
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nikhil2253&theme=github_yellow"
-    width="45%"
-  />
-
-  <br/><br/>
-
-  <!-- Graph / Stats -->
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nikhil2253&theme=github_yellow"
-    width="45%"
-  />
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nikhil2253&theme=github_yellow"
-    width="45%"
-  />
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikhil2253&theme=gruvbox"
+/>
 
 </div>
-
 
 <br/>
 
