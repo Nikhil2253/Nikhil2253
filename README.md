@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Portfolio-Nikhil_Saxena-00fa01?style=flat-square&logo=googlesites&logoColor=yellow">
   </a>
   <a href="https://cssbattle.dev/player/nikhilofsharingan">
-  <img src="https://img.shields.io/badge/CSSBattle-Profile-FFD700?style=flat-square&logo=css3&logoColor=000000">
+    <img src="https://img.shields.io/badge/CSSBattle-nikhilofsharingan-yellow?style=flat-square&logo=css3&logoColor=black">
   </a>
 </p>
 
@@ -46,7 +46,6 @@ Tools:            Git, Postman, VS Code, Visual Studio
 CS Concepts:      DSA, DBMS, System Design, OOPS, CN, Algorithms
 ```
 <div align="center">
-
   <!-- 🧠 Languages -->
   <h3>🧠 Languages</h3>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
