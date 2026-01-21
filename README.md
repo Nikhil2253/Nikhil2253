@@ -14,16 +14,14 @@
     <img src="https://img.shields.io/badge/Portfolio-Nikhil_Saxena-00fa01?style=flat-square&logo=googlesites&logoColor=yellow">
   </a>
   <a href="https://cssbattle.dev/player/nikhilofsharingan">
-  <img src="https://img.shields.io/badge/CSSBattle-nikhilofsharingan-purple?style=flat-square&logo=css3&logoColor=white">
-</a>
-
+  <img src="https://img.shields.io/badge/CSSBattle-Profile-FFD700?style=flat-square&logo=css3&logoColor=000000">
+  </a>
 </p>
 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1000&color=EAEA00&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Web+Developer;MERN+Stack+Dev;INTP;Game+Dev+Enthusiast;DSA+Learner;Aspiring+ML+Engineer" alt="Typing SVG" />
 </p>
-
 
 ---
 
