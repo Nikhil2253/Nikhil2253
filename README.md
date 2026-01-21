@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Portfolio-Nikhil_Saxena-00fa01?style=flat-square&logo=googlesites&logoColor=yellow">
   </a>
   <a href="https://cssbattle.dev/player/nikhilofsharingan">
-    <img src="https://img.shields.io/badge/CSSBattle-nikhilofsharingan-yellow?style=flat-square&logo=css3&logoColor=black">
+    <img src="https://img.shields.io/badge/CSSBattle-Nikhil_Saxena-yellow?style=flat-square&logo=css3&logoColor=black">
   </a>
 </p>
 
@@ -92,7 +92,6 @@ CS Concepts:      DSA, DBMS, System Design, OOPS, CN, Algorithms
   <img src="https://img.shields.io/badge/Computer_Networks-ff5d8f?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OOPS-9b59b6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/System_Design-lime?style=for-the-badge&logoColor=black" />
-
 
   <!-- 🧰 Tools -->
   <h3>🧰 Tools</h3>
