@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Portfolio-Nikhil_Saxena-00fa01?style=flat-square&logo=googlesites&logoColor=yellow">
   </a>
   <a href="https://cssbattle.dev/player/nikhilofsharingan">
-    <img src="https://img.shields.io/badge/CSSBattle-Nikhil_Saxena-yellow?style=flat-square&logo=css3&logoColor=black">
+    <img src="https://img.shields.io/badge/CSSBattle-Nikhil_Saxena-00dddd?style=flat-square&logo=css3&logoColor=black">
   </a>
 </p>
 
