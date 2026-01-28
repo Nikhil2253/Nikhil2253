@@ -77,8 +77,8 @@ CS Concepts:      DSA, DBMS, System Design, OOPS, CN, Algorithms
   <img src="https://img.shields.io/badge/REST_API-FF6F61?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
 
-  <!-- 🗄 Database -->
-  <h3>🗄 Database</h3>
+  <!-- 🗄 Database and ORM -->
+  <h3>🗄  Database and ORM</h3>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
