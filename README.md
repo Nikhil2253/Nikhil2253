@@ -35,6 +35,7 @@ I’m a Software Engineer passionate about building **scalable web apps, real-ti
  - 2nd Runner-up, 2025 Development Hackathon  
  - Bronze, 2025 Group Hackathon  
  - 500+ DSA Questions (Leetcode and GFG)
+  
 🧩 Experienced with **React.js, Next.js, Node.js, Authentication, MongoDB, DSA, and system design**
 
 ✉️ Reach me at: **nikhilsaxenacse@gmail.com**
