@@ -27,26 +27,17 @@
 
 ### About Me
 
-- I’m currently building scalable web apps and real-time systems with **Full Stack + Javascript + Problem Solving**
-- I’m exploring **AI-integrated platforms**, **logic**, **programming logic**.
-- 2nd Runner up of 2025 Development hackathon organised in College,  a **Bronze in a 2025 Group Hackathon**
-- Ask me about FullStack, React.js, Next.js, Node.js, Authentication, MongoDB, or clean architecture in full-stack apps
-- Reach me at: **nikhilsaxenacse@gmail.com**
-
-### About Me
-
-I’m a Full-Stack Web Developer and Software Engineer passionate about building **scalable web apps, real-time systems, and intelligent solutions**. I enjoy **solving challenging problems and turning ideas into efficient, maintainable code**.
+I’m a Software Engineer passionate about building **scalable web apps, real-time systems, and intelligent solutions**. I enjoy **solving challenging problems and turning ideas into efficient, maintainable code**.
 
 - 🧩 Building **Full-Stack apps with JavaScript/TypeScript, React.js, Next.js, Node.js**, and exploring **AI-integrated platforms**.  
 - 🧩 Exploring **new frameworks, AI/ML concepts, game development, and modern web technologies**.  
 - 🧩 Achievements:  
   - 2nd Runner-up, 2025 Development Hackathon  
   - Bronze, 2025 Group Hackathon  
-  - GSSOC '24 Contributor – Open-source projects  
+  - 500+ DSA Questions (Leetcode and GFG)
 - 🧩 Experienced with **React.js, Next.js, Node.js, Authentication, MongoDB, DSA, and system design**
 
-📫 Reach me at: **nikhilsaxenacse@gmail.com**  
-🌐 Portfolio: [nikhil-pi.vercel.app](https://nikhil-pi.vercel.app) | GitHub: [Nikhil2253](https://github.com/Nikhil2253)
+📫 Reach me at: **nikhilsaxenacse@gmail.com**
 
 ---
 
