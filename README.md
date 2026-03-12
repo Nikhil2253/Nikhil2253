@@ -35,7 +35,7 @@
 
 ---
 
-### 💻 Tech Stack
+### Tech Stack
 
 ```ts
 Languages:        JavaScript, TypeScript, C++, Python
