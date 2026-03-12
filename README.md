@@ -64,7 +64,7 @@ CS Concepts:      DSA, DBMS, System Design, OOPS, CN, Algorithms, Artificial Int
 
 ### Projects
 
-| Project | Tech Stack | Highlights | Built-Phase | Live Demo | LinkedIn | GitHub |
+| Project | Tech Stack | Highlights | Built Phase | Live Demo | LinkedIn | GitHub |
 |---------|------------|-----------|----------|-----------|----------|--------|
 | Origin | React (TS), Node.js, Express, Tailwind CSS, Axios | Full-stack coding community platform with certified courses, real-time posts, XP progression, streak heatmap, leaderboard, MFA | Sep 2025 – Oct 2025 | - | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/nikhil-saxena-76901a2a5_origin-mern-typescript-activity-7387704896998793216-5oRi) | - |
 | Cocoscript | Next.js, JavaScript, Tailwind CSS | Mini programming language | Nov 2025 – Nov 2025 | [![Live](https://img.shields.io/badge/Live-4CAF50?style=for-the-badge)](https://coco-script-nikhil-sk94.vercel.app/) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/nikhil-saxena-76901a2a5_miniprogramminglanguage-javascript-compiler-activity-7398903321182281729-oDqA) | - |
