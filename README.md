@@ -25,13 +25,13 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
-- 🔭 I’m currently building scalable web apps and real-time systems with **Full Stack + MERN Stack + Problem Solving**
-- 🌱 I’m exploring **AI-integrated platforms**, **game logic**, **programming logic** and **authentication systems**
-- 🥉 2nd Runner up of 2025 Development hackathon organised in College,  a **Bronze in a 2025 Group Hackathon**
-- 💬 Ask me about FullStack, React.js, Next.js, Node.js, Authentication, MongoDB, or clean architecture in full-stack apps
-- 📫 Reach me at: **nikhilsaxenacse@gmail.com**
+- I’m currently building scalable web apps and real-time systems with **Full Stack + Javascript + Problem Solving**
+- I’m exploring **AI-integrated platforms**, **logic**, **programming logic**.
+- 2nd Runner up of 2025 Development hackathon organised in College,  a **Bronze in a 2025 Group Hackathon**
+- Ask me about FullStack, React.js, Next.js, Node.js, Authentication, MongoDB, or clean architecture in full-stack apps
+- Reach me at: **nikhilsaxenacse@gmail.com**
 
 ---
 
@@ -39,15 +39,15 @@
 
 ```ts
 Languages:        JavaScript, TypeScript, C++, Python
-Frontend:         React.js, Next.js, Redux Toolkit, Tailwind CSS, HTML/CSS
+Frontend:         React.js, Next.js, Redux Toolkit, Zustand, Tailwind CSS, HTML/CSS
 Backend:          Node.js, Express.js, Passport.js, JWT, Django, Fastify, REST APIs
 Database:         MongoDB, PostgreSQL, SQL, PrismaORM
 Tools:            Git, Postman, VS Code, Visual Studio
-CS Concepts:      DSA, DBMS, System Design, OOPS, CN, Algorithms
+CS Concepts:      DSA, DBMS, System Design, OOPS, CN, Algorithms, Artificial Intelligence
 ```
 <div align="center">
-  <!-- 🧠 Languages -->
-  <h3>🧠 Languages</h3>
+  <!-- Languages -->
+  <h3>Languages</h3>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -57,16 +57,16 @@ CS Concepts:      DSA, DBMS, System Design, OOPS, CN, Algorithms
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
 
-  <!-- 💻 Frontend -->
-  <h3>💻 Frontend</h3>
+  <!-- Frontend -->
+  <h3>Frontend</h3>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
 
-  <!-- 🛠 Backend -->
-  <h3>🛠 Backend</h3>
+  <!-- Backend -->
+  <h3>Backend</h3>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
@@ -77,15 +77,15 @@ CS Concepts:      DSA, DBMS, System Design, OOPS, CN, Algorithms
   <img src="https://img.shields.io/badge/REST_API-FF6F61?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
 
-  <!-- 🗄 Database and ORM -->
-  <h3>🗄  Database and ORM</h3>
+  <!-- Database and ORM -->
+  <h3>Database and ORM</h3>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
 
-  <!-- 📘 CS Concepts -->
-  <h3>📘 CS Concepts</h3>
+  <!-- CS Concepts -->
+  <h3>CS Concepts</h3>
   <img src="https://img.shields.io/badge/DSA-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/DBMS-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Algorithms-DC143C?style=for-the-badge" />
@@ -93,8 +93,8 @@ CS Concepts:      DSA, DBMS, System Design, OOPS, CN, Algorithms
   <img src="https://img.shields.io/badge/OOPS-9b59b6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/System_Design-lime?style=for-the-badge&logoColor=black" />
 
-  <!-- 🧰 Tools -->
-  <h3>🧰 Tools</h3>
+  <!-- Tools -->
+  <h3>Tools</h3>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
@@ -105,7 +105,7 @@ CS Concepts:      DSA, DBMS, System Design, OOPS, CN, Algorithms
 
 ---
 
-### 🚀 Projects
+### Projects
 
 | Project                                                                                          | Tech Stack                                                | Highlights                                                                                                                                                                      |
 | ------------------------------------------------------------------------------------------------ | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -120,7 +120,7 @@ CS Concepts:      DSA, DBMS, System Design, OOPS, CN, Algorithms
 
 ---
 
-### 🏆 Achievements
+### Achievements
 
 - 🥉 **3rd Place – Group Hackathon 2025**  
   Competed against 15+ teams in a tech-focused hackathon hosted by ACET.  
@@ -142,7 +142,7 @@ CS Concepts:      DSA, DBMS, System Design, OOPS, CN, Algorithms
 **Bachelor of Technology – Computer Science & Engineering**  
 *Aligarh College of Engineering and Technology*  
 📍 *Aligarh, UP* (2022 – 2026)  
-📌 **Current GPA:** 8.49 / 10
+📌 **Current GPA:** 8.54 / 10
 
 **Intermediate (PCM)**  
 *Maharishi Vidya Mandir, Aligarh* (2022)  
@@ -199,7 +199,7 @@ CS Concepts:      DSA, DBMS, System Design, OOPS, CN, Algorithms
 
 
 
-### 🎯 Hobbies
+### Hobbies
 
 <p align="center">
   <b>♟️ Chess | 🎮 Gaming(Minecraft) | Anime</b>
