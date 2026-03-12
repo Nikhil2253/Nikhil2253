@@ -45,6 +45,13 @@ Database:         MongoDB, PostgreSQL, SQL, PrismaORM
 Tools:            Git, Postman, VS Code, Visual Studio
 CS Concepts:      DSA, DBMS, System Design, OOPS, CN, Algorithms, Artificial Intelligence
 ```
+
+### 💻 Skills
+
+| Languages | Frontend | Backend | Database & ORM | CS Concepts | Tools |
+|-----------|---------|---------|----------------|------------|-------|
+| ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000) ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000) ![Next](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white) | ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) | ![Mongo](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white) | ![DSA](https://img.shields.io/badge/DSA-blueviolet?style=for-the-badge) ![Algo](https://img.shields.io/badge/Algorithms-DC143C?style=for-the-badge) ![OOPS](https://img.shields.io/badge/OOPS-9b59b6?style=for-the-badge) ![CN](https://img.shields.io/badge/Computer_Networks-ff5d8f?style=for-the-badge) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
+
 <div align="center">
   <!-- Languages -->
   <h3>Languages</h3>
