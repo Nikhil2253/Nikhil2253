@@ -54,6 +54,19 @@ CS Concepts:      DSA, DBMS, System Design, OOPS, CN, Algorithms, Artificial Int
 
 ---
 
+### 🚀 Projects
+
+| Project | Tech Stack | Highlights | Live Demo | LinkedIn | GitHub |
+|---------|------------|-----------|-----------|----------|--------|
+| <span style="background-color:#4CAF50; color:white; padding:3px 8px; border-radius:5px;">Origin</span> | React (TS), Node.js, Express, Tailwind CSS, Axios | Full-stack coding community platform with certified courses, real-time article & code posts, XP progression, streak heatmap, leaderboard, multi-factor authentication | [Live](https://nikhil-pi.vercel.app) | - | [GitHub](https://github.com/Nikhil2253/Origin) |
+| <span style="background-color:#2196F3; color:white; padding:3px 8px; border-radius:5px;">Cocoscript</span> | Next.js, JavaScript, Tailwind CSS | Mini programming language | [Live](https://coco-script-nikhil-sk94.vercel.app/) | - | [GitHub](https://github.com/Nikhil2253/Cocoscript) |
+| <span style="background-color:#FF5722; color:white; padding:3px 8px; border-radius:5px;">LuminaSocial</span> | MERN, Socket.IO, JWT, Tailwind CSS | Scalable full-stack social media app with real-time messaging, post interactions, secure user management | - | - | [GitHub](https://github.com/Nikhil2253/LuminaSocial) |
+| <span style="background-color:#9C27B0; color:white; padding:3px 8px; border-radius:5px;">Campus Connect</span> | MERN, Gemini API, Socket.IO | 3rd place in 2025 Group Hackathon – full-fledged college platform | - | - | [GitHub](https://github.com/Nikhil2253/Campus-Connect) |
+| <span style="background-color:#00BCD4; color:white; padding:3px 8px; border-radius:5px;">Sorting Visualizer</span> | React, Async JS | Animations for all sorting algorithms | - | - | [GitHub](https://github.com/Nikhil2253/Sorting_Algo_Visualisation-) |
+| <span style="background-color:#FF9800; color:white; padding:3px 8px; border-radius:5px;">World Idle Game</span> | MERN, Problem Solving | Simulates real-time world economy and country interactions | - | - | [GitHub](https://github.com/Nikhil2253/WorldGame) |
+| <span style="background-color:#607D8B; color:white; padding:3px 8px; border-radius:5px;">Ludo Game</span> | HTML, CSS, JavaScript | Classic multiplayer Ludo with game logic and UI | - | - | [GitHub](https://github.com/Nikhil2253/Ludo-Game) |
+| <span style="background-color:#E91E63; color:white; padding:3px 8px; border-radius:5px;">Hospital Management System</span> | MERN, JWT, Bcrypt | Secure, role-based dashboards for hospitals with real-time features | - | - | [GitHub](https://github.com/Nikhil2253/Hospital-Management-System---HMS) |
+
 ### Projects
 
 | Project                                                                                          | Tech Stack                                                | Highlights                                                                                                                                                                      |
