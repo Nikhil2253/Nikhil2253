@@ -95,7 +95,7 @@ CS Concepts:      DSA, DBMS, System Design, OOPS, CN, Algorithms, Artificial Int
 
 ---
 
-<h2>Education</h2>
+### Education
 
 <table width="100%">
 <thead>
