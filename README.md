@@ -1,3 +1,38 @@
+<h1 align="center">Hi 👋 I'm Nikhil Saxena</h1>
+
+<p align="center">
+  <b>Software Engineer • Full-Stack Web Developer • MERN Stack Developer</b><br>
+  INTP “The Logician” • DSA in C++ / JS • Game Development Enthusiast • Aspiring ML Engineer
+</p>
+
+<p align="center">
+  <a href="mailto:nikhilsaxenacse@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-nikhilsaxenacse%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/nikhil-saxena-76901a2a5/">
+    <img src="https://img.shields.io/badge/LinkedIn-Nikhil%20Saxena-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/Nikhil2253">
+    <img src="https://img.shields.io/badge/GitHub-Nikhil2253-181717?style=flat-square&logo=github&logoColor=white">
+  </a>
+  <a href="https://leetcode.com/u/Nikhil_Saxena__/">
+    <img src="https://img.shields.io/badge/LeetCode-Nikhil_Saxena-FFA116?style=flat-square&logo=leetcode&logoColor=black">
+  </a>
+  <a href="https://x.com/nikhilarchon">
+    <img src="https://img.shields.io/badge/X-@nikhilarchon-000000?style=flat-square&logo=x&logoColor=white">
+  </a>
+  <a href="https://nikhil-pi.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-22c55e?style=flat-square&logo=vercel&logoColor=white">
+  </a>
+  <a href="https://cssbattle.dev/player/nikhilofsharingan">
+    <img src="https://img.shields.io/badge/CSSBattle-Profile-FFD700?style=flat-square&logo=css3&logoColor=black">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=17&pause=1000&color=FACC15&center=true&vCenter=true&width=650&lines=Software+Engineer;Full+Stack+Developer;MERN+Stack+Developer;INTP+The+Logician;Game+Dev+Enthusiast;DSA+in+C%2B%2B+%26+JS;Aspiring+ML+Engineer" />
+</p>
+
 <h1 align="center">I'm Nikhil Saxena</h1>
 
 <p align="center">
