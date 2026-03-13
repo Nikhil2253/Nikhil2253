@@ -95,7 +95,7 @@ CS Concepts:      DSA, DBMS, System Design, OOPS, CN, Algorithms, Artificial Int
 
 ---
 
-## 🎓 Education
+###  Education
 
 **Bachelor of Technology – Computer Science & Engineering**  
 *Aligarh College of Engineering and Technology*  
@@ -110,44 +110,10 @@ CS Concepts:      DSA, DBMS, System Design, OOPS, CN, Algorithms, Artificial Int
 *Maharishi Vidya Mandir, Aligarh* (2020)  
 📌 **Score:** 82.6%  
 
-<h2 align="center">🎓 Education</h2>
-
-<table align="center">
-<tr>
-
-<td align="center" width="300">
-
-<b>B.Tech – CSE</b><br>
-Aligarh College of Engineering and Technology<br>
-2022 – 2026<br>
-<b>GPA:</b> 8.54 / 10
-
-</td>
-
-<td align="center" width="300">
-
-<b>Intermediate (PCM)</b><br>
-Maharishi Vidya Mandir<br>
-2022<br>
-<b>83.4%</b>
-
-</td>
-
-<td align="center" width="300">
-
-<b>High School</b><br>
-Maharishi Vidya Mandir<br>
-2020<br>
-<b>82.6%</b>
-
-</td>
-
-</tr>
-</table>
 ---
 
 
-##  GitHub Stats 
+###  GitHub Stats 
 
 <div align="center">
 <img 
