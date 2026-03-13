@@ -11,7 +11,7 @@
   <a href="https://leetcode.com/u/Nikhil_Saxena__/"><img src="https://img.shields.io/badge/LeetCode-Nikhil__Saxena-orange?style=flat-square&logo=leetcode"></a>
   <a href="https://x.com/nikhilarchon"><img src="https://img.shields.io/badge/@nikhilarchon-000000?style=flat-square&logo=x&logoColor=white"></a>
   <a href="https://nikhil-pi.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Nikhil_Saxena-00fa01?style=flat-square&logo=matrix&logoColor=yellow">
+    <img src="https://img.shields.io/badge/Portfolio-Nikhil_Saxena-00fa01?style=flat-square&logo=astro&logoColor=white">
   </a>
   <a href="https://cssbattle.dev/player/nikhilofsharingan">
     <img src="https://img.shields.io/badge/CSSBattle-Nikhil_Saxena-dddd00?style=flat-square&logo=css3&logoColor=black">
