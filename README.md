@@ -93,6 +93,42 @@ CS Concepts:      DSA, DBMS, System Design, OOPS, CN, Algorithms, Artificial Int
 
 - 💻 **GSSOC '24 Contributor** – Participated in open-source projects during GirlScript Summer of Code
 
+### 🏆 Achievements
+
+| Achievement | Details |
+|-------------|--------|
+| 🥉 3rd Place – ACET Hackathon | Built **Campus Connect** with real-time chat, AI MCQ testing, dashboards |
+| 🏅 AuraFlix Hackathon | Top **4 / 400+ teams** |
+| 💻 GSSOC '24 | Open-source contributor |
+
+
+### 🏆 Achievements
+
+<details>
+<summary>🥉 3rd Place – Group Hackathon 2025</summary>
+
+Built **Campus Connect** including:
+- Real-time chat (Socket.IO)
+- Role-based dashboards
+- AI MCQ testing via Gemini API
+- Announcements & placement module
+
+</details>
+
+<details>
+<summary>🏅 AuraFlix Hackathon</summary>
+
+Top **4 out of 400+ teams**.  
+Recognized for creativity and code quality.
+
+</details>
+
+<details>
+<summary>💻 GSSOC '24 Contributor</summary>
+
+Participated in open-source contributions during **GirlScript Summer of Code**.
+
+</details>
 ---
 
 ## 🎓 Education
