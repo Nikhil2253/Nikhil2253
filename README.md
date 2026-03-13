@@ -93,20 +93,6 @@ CS Concepts:      DSA, DBMS, System Design, OOPS, CN, Algorithms, Artificial Int
 
 - 💻 **GSSOC '24 Contributor** – Participated in open-source projects during GirlScript Summer of Code
 
-### 🏆 Achievements
-
-🥉 **3rd Place – Group Hackathon 2025 (ACET)**  
-Built **Campus Connect**, a full-featured college platform featuring:
-- 💬 Real-time chat with Socket.IO
-- 📚 Role-based dashboards for teachers & students
-- 🧠 AI-powered MCQ testing using Gemini API
-- 📣 Announcements, placements module, classroom sharing
-
-🏅 **Certificate of Excellence – AuraFlix Hackathon**  
-Ranked **Top 4 out of 400+ teams**, recognized for creativity and code quality.
-
-💻 **GSSOC '24 Contributor**  
-Contributed to open-source projects during **GirlScript Summer of Code**.
 ---
 
 ## 🎓 Education
@@ -123,6 +109,42 @@ Contributed to open-source projects during **GirlScript Summer of Code**.
 **High School**  
 *Maharishi Vidya Mandir, Aligarh* (2020)  
 📌 **Score:** 82.6%  
+
+<h2>🎓 Education</h2>
+
+<table>
+<tr>
+<td width="33%">
+
+<b>B.Tech – Computer Science & Engineering</b><br>
+Aligarh College of Engineering and Technology<br>
+📍 Aligarh, UP<br>
+2022 – 2026<br>
+<b>GPA:</b> 8.54 / 10
+
+</td>
+
+<td width="33%">
+
+<b>Intermediate (PCM)</b><br>
+Maharishi Vidya Mandir<br>
+📍 Aligarh<br>
+2022<br>
+<b>Score:</b> 83.4%
+
+</td>
+
+<td width="33%">
+
+<b>High School</b><br>
+Maharishi Vidya Mandir<br>
+📍 Aligarh<br>
+2020<br>
+<b>Score:</b> 82.6%
+
+</td>
+</tr>
+</table>
 
 ---
 
