@@ -110,42 +110,40 @@ CS Concepts:      DSA, DBMS, System Design, OOPS, CN, Algorithms, Artificial Int
 *Maharishi Vidya Mandir, Aligarh* (2020)  
 📌 **Score:** 82.6%  
 
-<h2>🎓 Education</h2>
+<h2 align="center">🎓 Education</h2>
 
-<table>
+<table align="center">
 <tr>
-<td width="33%">
 
-<b>B.Tech – Computer Science & Engineering</b><br>
+<td align="center" width="300">
+
+<b>B.Tech – CSE</b><br>
 Aligarh College of Engineering and Technology<br>
-📍 Aligarh, UP<br>
 2022 – 2026<br>
 <b>GPA:</b> 8.54 / 10
 
 </td>
 
-<td width="33%">
+<td align="center" width="300">
 
 <b>Intermediate (PCM)</b><br>
 Maharishi Vidya Mandir<br>
-📍 Aligarh<br>
 2022<br>
-<b>Score:</b> 83.4%
+<b>83.4%</b>
 
 </td>
 
-<td width="33%">
+<td align="center" width="300">
 
 <b>High School</b><br>
 Maharishi Vidya Mandir<br>
-📍 Aligarh<br>
 2020<br>
-<b>Score:</b> 82.6%
+<b>82.6%</b>
 
 </td>
+
 </tr>
 </table>
-
 ---
 
 
