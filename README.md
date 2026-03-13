@@ -95,33 +95,21 @@ CS Concepts:      DSA, DBMS, System Design, OOPS, CN, Algorithms, Artificial Int
 
 ---
 
-###  Education
+<h2>Education</h2>
 
-**Bachelor of Technology – Computer Science & Engineering**  
-*Aligarh College of Engineering and Technology*  
-📍 *Aligarh, UP* (2022 – 2026)  
-📌 **Current GPA:** 8.54 / 10
-
-**Intermediate (PCM)**  
-*Maharishi Vidya Mandir, Aligarh* (2022)  
-📌 **Score:** 83.4%  
-
-**High School**  
-*Maharishi Vidya Mandir, Aligarh* (2020)  
-📌 **Score:** 82.6%  
-
-<h2>🎓 Education</h2>
-
-<table>
+<table width="100%">
+<thead>
 <tr>
-<td><b>Degree</b></td>
-<td><b>Institution</b></td>
-<td><b>Year</b></td>
-<td><b>Score</b></td>
+<th align="left">Education</th>
+<th align="left">Institution</th>
+<th align="left">Year</th>
+<th align="left">Score</th>
 </tr>
+</thead>
 
+<tbody>
 <tr>
-<td>B.Tech – CSE</td>
+<td>B.Tech – Computer Science & Engineering</td>
 <td>Aligarh College of Engineering and Technology</td>
 <td>2022–2026</td>
 <td>8.54 GPA</td>
@@ -140,7 +128,7 @@ CS Concepts:      DSA, DBMS, System Design, OOPS, CN, Algorithms, Artificial Int
 <td>2020</td>
 <td>82.6%</td>
 </tr>
-
+</tbody>
 </table>
 
 ---
