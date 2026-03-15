@@ -7,7 +7,7 @@
 <p align="center">
   <a href="mailto:nikhilsaxenacse@gmail.com"><img src="https://img.shields.io/badge/gmail-nikhilsaxenacse@gmail.com-blue?style=flat-square&logo=gmail"></a>
 <a href="https://www.linkedin.com/in/nikhil-saxena-76901a2a5/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-Nikhil Saxena-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
 </a>
   <a href="https://github.com/Nikhil2253"><img src="https://img.shields.io/badge/GitHub-Nikhil2253-black?style=flat-square&logo=github"></a>
   <a href="https://leetcode.com/u/Nikhil_Saxena__/"><img src="https://img.shields.io/badge/LeetCode-Nikhil__Saxena-orange?style=flat-square&logo=leetcode"></a>
