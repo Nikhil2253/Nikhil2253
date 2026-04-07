@@ -18,6 +18,9 @@
   <a href="https://www.geeksforgeeks.org/user/csnikhilsaxena/">
     <img src="https://img.shields.io/badge/GeeksforGeeks-Nikhil%20Saxena-ffffff?style=flat-square&logo=geeksforgeeks&logoColor=2F8D46">
   </a>
+  <a href="https://www.hackerrank.com/csnikhilsaxena">
+  <img src="https://img.shields.io/badge/HackerRank-Nikhil_Saxena-2EC866?style=flat-square&logo=hackerrank&logoColor=white">
+</a>
   <a href="https://cssbattle.dev/player/nikhilofsharingan">
     <img src="https://img.shields.io/badge/CSSBattle-Nikhil_Saxena-dddd00?style=flat-square&logo=css3&logoColor=black">
   </a>
