@@ -5,24 +5,32 @@
 </p>
 
 <p align="center">
-  <a href="mailto:nikhilsaxenacse@gmail.com"><img src="https://img.shields.io/badge/gmail-nikhilsaxenacse@gmail.com-blue?style=flat-square&logo=gmail"></a>
-<a href="https://www.linkedin.com/in/nikhil-saxena-76901a2a5/">
-<img src="https://img.shields.io/badge/LinkedIn-Nikhil Saxena-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
-</a>
-  <a href="https://github.com/Nikhil2253"><img src="https://img.shields.io/badge/GitHub-Nikhil2253-black?style=flat-square&logo=github"></a>
-  <a href="https://leetcode.com/u/csnikhilsaxena/"><img src="https://img.shields.io/badge/LeetCode-Nikhil Saxena-orange?style=flat-square&logo=leetcode"></a>
-  <a href="https://x.com/nikhilarchon"><img src="https://img.shields.io/badge/Nikhil Saxena-000000?style=flat-square&logo=x&logoColor=white"></a>
+  <a href="mailto:nikhilsaxenacse@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Nikhil_Saxena-D14836?style=flat&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/nikhil-saxena-76901a2a5/">
+    <img src="https://img.shields.io/badge/LinkedIn-Nikhil_Saxena-0A66C2?style=flat&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/Nikhil2253">
+    <img src="https://img.shields.io/badge/GitHub-Nikhil_Saxena-181717?style=flat&logo=github&logoColor=white">
+  </a>
+  <a href="https://leetcode.com/u/csnikhilsaxena/">
+    <img src="https://img.shields.io/badge/LeetCode-Nikhil_Saxena-FFA116?style=flat&logo=leetcode&logoColor=black">
+  </a>
+  <a href="https://x.com/nikhilarchon">
+    <img src="https://img.shields.io/badge/X-Nikhil_Saxena-000000?style=flat&logo=x&logoColor=white">
+  </a>
   <a href="https://nikhil-pi.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Nikhil_Saxena-00fa01?style=flat-square&logo=astro&logoColor=white">
+    <img src="https://img.shields.io/badge/Portfolio-Nikhil_Saxena-00FA9A?style=flat&logo=astro&logoColor=black">
   </a>
   <a href="https://www.geeksforgeeks.org/user/csnikhilsaxena/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Nikhil%20Saxena-ffffff?style=flat-square&logo=geeksforgeeks&logoColor=2F8D46">
+    <img src="https://img.shields.io/badge/GFG-Nikhil_Saxena-ffffff?style=flat&logo=geeksforgeeks&logoColor=2F8D46">
   </a>
   <a href="https://www.hackerrank.com/csnikhilsaxena">
-  <img src="https://img.shields.io/badge/HackerRank-Nikhil_Saxena-2EC866?style=flat-square&logo=hackerrank&logoColor=white">
-</a>
+    <img src="https://img.shields.io/badge/HackerRank-Nikhil_Saxena-2EC866?style=flat&logo=hackerrank&logoColor=white">
+  </a>
   <a href="https://cssbattle.dev/player/nikhilofsharingan">
-    <img src="https://img.shields.io/badge/CSSBattle-Nikhil_Saxena-dddd00?style=flat-square&logo=css3&logoColor=black">
+    <img src="https://img.shields.io/badge/CSSBattle-Nikhil_Saxena-FFD700?style=flat&logo=css3&logoColor=black">
   </a>
 </p>
 
