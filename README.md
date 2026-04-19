@@ -11,7 +11,6 @@
 </a>
   <a href="https://github.com/Nikhil2253"><img src="https://img.shields.io/badge/Nikhil%20Saxena-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://leetcode.com/u/csnikhilsaxena/"><img src="https://img.shields.io/badge/Nikhil%20Saxena-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://x.com/nikhilarchon"><img src="https://img.shields.io/badge/Nikhil%20Saxena-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://nikhil-pi.vercel.app"><img src="https://img.shields.io/badge/Nikhil%20Saxena-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.geeksforgeeks.org/user/csnikhilsaxena/"><img src="https://img.shields.io/badge/Nikhil%20Saxena-FFFFFF?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" /></a>
   <a href="https://www.hackerrank.com/csnikhilsaxena"><img src="https://img.shields.io/badge/Nikhil%20Saxena-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
