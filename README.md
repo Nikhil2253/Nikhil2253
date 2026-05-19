@@ -5,12 +5,12 @@
 </p>
 
 <p align="center">
-  <a href="mailto:nikhilsaxenacse@gmail.com"><img src="https://img.shields.io/badge/Nikhil%20Saxena-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/nikhil-saxena-76901a2a5/">
   <img src="https://img.shields.io/badge/Nikhil_Saxena-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDAgMS0yLjA2My0yLjA2NSAyLjA2NCAyLjA2NCAwIDEgMSAyLjA2MyAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAweiIvPjwvc3ZnPg==" />
 </a>
   <a href="https://github.com/Nikhil2253"><img src="https://img.shields.io/badge/Nikhil%20Saxena-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://leetcode.com/u/csnikhilsaxena/"><img src="https://img.shields.io/badge/Nikhil%20Saxena-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="mailto:nikhilsaxenacse@gmail.com"><img src="https://img.shields.io/badge/Nikhil%20Saxena-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://nikhil-pi.vercel.app"><img src="https://img.shields.io/badge/Nikhil%20Saxena-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.geeksforgeeks.org/user/csnikhilsaxena/"><img src="https://img.shields.io/badge/Nikhil%20Saxena-FFFFFF?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" /></a>
   <a href="https://www.hackerrank.com/csnikhilsaxena"><img src="https://img.shields.io/badge/Nikhil%20Saxena-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
