@@ -46,8 +46,8 @@ I’m a Software Engineer passionate about building **scalable web apps, real-ti
 ```ts
 Languages:        JavaScript, TypeScript, C++, Python
 Frontend:         React.js, Next.js, Redux Toolkit, Zustand, Tailwind CSS, HTML/CSS
-Backend:          Node.js, Express.js, Passport.js, JWT, Django, Fastify, REST APIs
-Database:         MongoDB, PostgreSQL, SQL, PrismaORM
+Backend:          Node.js, Express.js, FastAPI Passport.js, JWT, Django, Fastify, REST APIs
+Database:         MongoDB, PostgreSQL, SQL, PrismaORM, Redis, Mongoose
 Tools:            Git, Postman, VS Code, Visual Studio
 CS Concepts:      DSA, DBMS, System Design, OOPS, CN, Algorithms, Artificial Intelligence
 ```
@@ -113,7 +113,7 @@ CS Concepts:      DSA, DBMS, System Design, OOPS, CN, Algorithms, Artificial Int
 <td>B.Tech – Computer Science & Engineering</td>
 <td>Aligarh College of Engineering and Technology</td>
 <td>2022–2026</td>
-<td>8.54 GPA</td>
+<td>8.59 GPA</td>
 </tr>
 
 <tr>
