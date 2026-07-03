@@ -1,7 +1,7 @@
 <div align="center">
   <!-- <img src="./assests/img1.png" alt="Nikhil Saxena" width="100%" /> -->
 <!-- <img src="./assests/img2.png" alt="Nikhil Saxena" width="100%" /> -->
-<img src="./assests/img3.png" alt="Nikhil Saxena" height="70%" width="70%" />
+<img src="./assests/img3.png" alt="Nikhil Saxena" height="7%" width="70%" />
 <!-- <img src="./assests/img4.png" alt="Nikhil Saxena" width="100%" /> -->
 <!-- <img src="./assests/img5.png" alt="Nikhil Saxena" width="100%" /> -->
 <!-- <img src="./assests/img6.png" alt="Nikhil Saxena" width="100%" /> -->
