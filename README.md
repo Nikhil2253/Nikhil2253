@@ -5,8 +5,23 @@
 <!-- <img src="./assests/img4.png" alt="Nikhil Saxena" width="100%" /> -->
 <!-- <img src="./assests/img5.png" alt="Nikhil Saxena" width="100%" /> -->
 <!-- <img src="./assests/img6.png" alt="Nikhil Saxena" width="100%" /> -->
-<img src="./assests/img7.png" alt="Nikhil Saxena" width="70%" /> 
+<!-- <img src="./assests/img7.png" alt="Nikhil Saxena" width="70%" /> -->
 <!-- <img src="./assests/img8.png" alt="Nikhil Saxena" width="100%" /> -->
+  <picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./assests/img5.png"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./assests/img7.png"
+  />
+  <img
+    src="./assests/img7.png"
+    alt="Nikhil Saxena"
+    width="70%"
+  />
+</picture>
 </div>
 
 <picture>
