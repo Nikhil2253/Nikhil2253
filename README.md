@@ -22,7 +22,7 @@
     width="70%"
   />
   </picture>
-<div>
+</div>
     
 ---
 
