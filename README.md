@@ -5,7 +5,7 @@
 <!-- <img src="./assests/img4.png" alt="Nikhil Saxena" width="100%" /> -->
 <!-- <img src="./assests/img5.png" alt="Nikhil Saxena" width="100%" /> -->
 <!-- <img src="./assests/img6.png" alt="Nikhil Saxena" width="100%" /> -->
-<img src="./assests/img7.png" alt="Nikhil Saxena" width="100%" /> 
+<img src="./assests/img7.png" alt="Nikhil Saxena" width="70%" /> 
 <!-- <img src="./assests/img8.png" alt="Nikhil Saxena" width="100%" /> -->
 </div>
 
