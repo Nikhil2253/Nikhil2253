@@ -12,7 +12,7 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="/assests/img8.png"
+    srcset="./assests/img6.png"
   />
   <source
     media="(prefers-color-scheme: light)"
@@ -21,7 +21,7 @@
   <img
     src="./assests/img7.png"
     alt="Nikhil Saxena"
-    width="150"
+    width="70%"
   />
 </picture>
 
