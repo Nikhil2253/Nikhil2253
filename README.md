@@ -21,7 +21,8 @@
     alt="Nikhil Saxena"
     width="70%"
   />
-    
+  </picture>
+  <div>
 ---
 
 <p align="center">
