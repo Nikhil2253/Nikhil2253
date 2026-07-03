@@ -10,11 +10,11 @@
   <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="./assests/img5.png"
+    srcset="./assests/img7.png"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="./assests/img7.png"
+    srcset="./assests/img5.png"
   />
   <img
     src="./assests/img7.png"
