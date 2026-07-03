@@ -21,25 +21,7 @@
     alt="Nikhil Saxena"
     width="70%"
   />
-</picture>
-</div>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="./assests/img5.png"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="./assests/img7.png"
-  />
-  <img
-    src="./assests/img7.png"
-    alt="Nikhil Saxena"
-    width="70%"
-  />
-</picture>
-
+    
 ---
 
 <p align="center">
