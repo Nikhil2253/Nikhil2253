@@ -8,8 +8,6 @@
 <!-- <img src="./assests/img7.png" alt="Nikhil Saxena" width="100%" /> -->
 <!-- <img src="./assests/img8.png" alt="Nikhil Saxena" width="100%" /> -->
 </div>
-<h1 align="center">I'm Nikhil Saxena</h1>
-
 <p align="center">
   <b>Software Engineer | Full-Stack Web Developer | MERN Stack Developer | INTP "THE LOGICIAN" | DSA in C++ or JS | Game Development Enthusiast | Aspiring ML Engineer</b>
 </p>
