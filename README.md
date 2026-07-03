@@ -12,7 +12,7 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="./assests/img6.png"
+    srcset="./assests/img5.png"
   />
   <source
     media="(prefers-color-scheme: light)"
