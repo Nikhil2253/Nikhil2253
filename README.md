@@ -1,11 +1,13 @@
-<img src="./assets/img1.png" alt="Nikhil Saxena" width="100%" />
-<img src="./assets/img2.png" alt="Nikhil Saxena" width="100%" />
-<img src="./assets/img3.png" alt="Nikhil Saxena" width="100%" />
-<img src="./assets/img4.png" alt="Nikhil Saxena" width="100%" />
-<img src="./assets/img5.png" alt="Nikhil Saxena" width="100%" />
-<img src="./assets/img6.png" alt="Nikhil Saxena" width="100%" />
-<img src="./assets/img7.png" alt="Nikhil Saxena" width="100%" />
-<img src="./assets/img8.png" alt="Nikhil Saxena" width="100%" />
+<div align="center">
+  <img src="./assests/img1.png" alt="Nikhil Saxena" width="100%" />
+<img src="./assests/img2.png" alt="Nikhil Saxena" width="100%" />
+<img src="./assests/img3.png" alt="Nikhil Saxena" width="100%" />
+<img src="./assests/img4.png" alt="Nikhil Saxena" width="100%" />
+<img src="./assests/img5.png" alt="Nikhil Saxena" width="100%" />
+<img src="./assests/img6.png" alt="Nikhil Saxena" width="100%" />
+<img src="./assests/img7.png" alt="Nikhil Saxena" width="100%" />
+<img src="./assests/img8.png" alt="Nikhil Saxena" width="100%" />
+</div>
 <h1 align="center">I'm Nikhil Saxena</h1>
 
 <p align="center">
