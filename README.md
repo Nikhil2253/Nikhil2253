@@ -9,6 +9,22 @@
 <!-- <img src="./assests/img8.png" alt="Nikhil Saxena" width="100%" /> -->
 </div>
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="/assests/img8.png"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./assests/img7.png"
+  />
+  <img
+    src="./assests/img7.png"
+    alt="Nikhil Saxena"
+    width="150"
+  />
+</picture>
+
 ---
 
 <p align="center">
