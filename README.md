@@ -108,7 +108,7 @@ CS Concepts:      DSA, DBMS, System Design, OOPS, CN, Algorithms, Artificial Int
 | <img src="./assests/manage-it.png" alt="Hospital Management System" height="28"> | MERN, JWT, Bcrypt | Secure, role-based dashboards for hospitals with real-time features | Mar 2025 – Apr 2025 | - | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/nikhil-saxena-76901a2a5_mernstack-hospitalmanagementsystem-webapplication-activity-7315203906207170560-gRGS) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nikhil2253/Hospital-Management-System---HMS) |
 
 ---
-
+<!--
 <h2 align="center">🚀 Featured Projects</h2>
 
 <p align="center">A curated showcase of full-stack apps, AI agents, and creative builds.</p>
@@ -463,8 +463,7 @@ Jan 2024
 
 </tr>
 </table>
-
----
+-->
 
 ### Achievements
 
