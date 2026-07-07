@@ -466,20 +466,23 @@ Jan 2024
 </table>
 -->
 
-### Achievements
+## 🏆 Achievements
 
-- 🥉 **3rd Place – Group Hackathon 2025**  
-  Competed against 15+ teams in a tech-focused hackathon hosted by ACET.  
-  Our team built **Campus Connect** – a full-featured college platform integrating:
-  - 💬 Real-time chat using Socket.IO  
-  - 📚 Role-based dashboards for teachers and students  
-  - 🧠 AI-powered MCQ testing via Gemini API  
-  - 📣 Live announcements, placements module, classroom sharing  
+- 🥉 **3rd Place — Group Hackathon 2025**
+  - Competed against **15+ teams** at ACET.
+  - Built **Campus Connect**, a full-stack college platform with **Socket.IO**, **Gemini AI**, role-based dashboards, announcements, placements, and classroom collaboration.
 
-- 🏅 **Certificate of Excellence – AuraFlix Hackathon**  
-  Ranked in the **Top 4 out of 400+ teams**. Recognized for creativity and code quality.
+- 🏅 **Certificate of Excellence — AuraFlix Hackathon**
+  - Ranked **Top 4 out of 400+ teams** for innovation, creativity, and code quality.
 
-- 💻 **GSSOC '24 Contributor** – Participated in open-source projects during GirlScript Summer of Code
+- 🎓 **Top 5 — B.Tech Batch of 2026**
+  - Graduated among the **Top 5 students** in the entire **B.Tech 2026 batch** at ACET.
+
+- 🥉 **Top 3 — University External Examinations**
+  - Secured **3rd rank** based on university external examination performance.
+
+- 💻 **GirlScript Summer of Code 2024 (GSSOC '24)**
+  - Open Source Contributor, contributing to community-driven projects.
 
 ---
 
