@@ -71,7 +71,7 @@ I’m a Software Engineer passionate about building **scalable web apps, real-ti
 
 ```ts
 Languages:        JavaScript, TypeScript, C++, Python
-Frontend:         React.js, Next.js, Redux Toolkit, Zustand, Tailwind CSS, HTML/CSS
+Frontend:         React.js, Next.js, Redux Toolkit, Vue.js, Zustand, Tailwind CSS, HTML/CSS
 Backend:          Node.js, Express.js, FastAPI, Passport.js, JWT, Django, Fastify, REST APIs, GraphQL
 Database:         MongoDB, PostgreSQL, SQL, PrismaORM, Redis, Mongoose
 AI Engineering:   LangChain, LangGraph, LLM Integration, Prompt Engineering, Gemini, OpenAI
