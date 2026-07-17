@@ -29,7 +29,7 @@
   <a href="https://github.com/Nikhil2253"><img src="https://img.shields.io/badge/Nikhil%20Saxena-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://leetcode.com/u/niksaxenaa/"><img src="https://img.shields.io/badge/Nikhil%20Saxena-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="mailto:nikhilsaxenacse@gmail.com"><img src="https://img.shields.io/badge/Nikhil%20Saxena-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://nikhil-pi.vercel.app"><img src="https://img.shields.io/badge/Nikhil%20Saxena-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://nikhilsaxena.vercel.app/"><img src="https://img.shields.io/badge/Nikhil%20Saxena-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.geeksforgeeks.org/user/csnikhilsaxena/"><img src="https://img.shields.io/badge/Nikhil%20Saxena-FFFFFF?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" /></a>
   <a href="https://www.hackerrank.com/csnikhilsaxena"><img src="https://img.shields.io/badge/Nikhil%20Saxena-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
   <a href="https://cssbattle.dev/player/nikhilofsharingan"><img src="https://img.shields.io/badge/Nikhil%20Saxena-FFDD00?style=for-the-badge&logo=css&logoColor=black" /></a>
