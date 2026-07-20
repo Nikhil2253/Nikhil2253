@@ -19,7 +19,7 @@
 ---
 
 <p align="center">
-  <b>Software Engineer | Full-Stack Developer | MERN Stack Developer | INTP "THE LOGICIAN" | DSA in C++ or JS | Agentic Ai | Game Development Enthusiast | Aspiring ML Engineer</b>
+  <b>Software Engineer | Full-Stack Developer | MERN Stack Developer | INTP "THE LOGICIAN" | DSA in C++ or JS | Agentic AI | Game Development Enthusiast | Aspiring ML Engineer</b>
 </p>
 
 <p align="center">
