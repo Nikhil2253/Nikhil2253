@@ -19,7 +19,7 @@
 ---
 
 <p align="center">
-  <b>Software Engineer | Full-Stack Developer | MERN Stack Developer | INTP "THE LOGICIAN" | DSA in C++ or JS | Agentic AI | Game Development Enthusiast | Aspiring ML Engineer</b>
+  <b>Software Engineer | Full-Stack Developer | Programming Polyglot | INTP "THE LOGICIAN" | DSA in C++ or JS | Agentic AI | Game Development Enthusiast | Aspiring ML Engineer</b>
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1000&color=EAEA00&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Web+Developer;MERN+Stack+Dev;INTP;Game+Dev+Enthusiast;DSA+Learner;Aspiring+ML+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1000&color=EAEA00&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Web+Developer;INTP;Game+Dev+Enthusiast;Aspiring+ML+Engineer;Programming+Polyglot" alt="Typing SVG" />
 </p>
 
 ---
