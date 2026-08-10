@@ -117,8 +117,8 @@ CS Concepts:      DSA, DBMS, System Design, OOPS, CN, Algorithms, Artificial Int
 - 🥉 **Top 3 — University External Examinations**
   - Secured **3rd rank** based on university external examination performance.
 
-- 💻 **GirlScript Summer of Code 2024 (GSSOC '24)**
-  - Open Source Contributor, contributing to community-driven projects.
+- 💻 **Maths Average 90+**
+  - Including All Maths Exams i have participated (from Primary to Graduation).
 
 ---
 
