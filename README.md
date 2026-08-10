@@ -117,7 +117,7 @@ CS Concepts:      DSA, DBMS, System Design, OOPS, CN, Algorithms, Artificial Int
 - 🥉 **Top 3 — University External Examinations**
   - Secured **3rd rank** based on university external examination performance.
 
-- 💻 **Maths Average 90+**
+- 💻 **Maths Average 90+/100**
   - Including All Maths Exams i have participated (from Primary to Graduation).
 
 ---
